@@ -48,9 +48,9 @@ A modern and responsive developer portfolio built with **React** and custom anim
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/yourprofile  
-- **Portfolio:** https://your-website.com  
-- **Email:** your.email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/prempandey0722/
+- **Portfolio:**  
+- **Email:** prempandey0722@gmail.com  
 
 ---
 
